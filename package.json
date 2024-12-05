@@ -18,8 +18,7 @@
   },
   "scripts": {
     "start": "node app.js",
-    "dev": "nodemon app.js",
-    "swagger": "node ./swagger.js"
+    "dev": " node ./swagger.js && nodemon app.js "
   },
   "keywords": [],
   "author": "",
